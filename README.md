@@ -1,5 +1,5 @@
 # Medical Security News
-
+![demo](https://user-images.githubusercontent.com/28086161/201310604-bff33de1-ed96-49e2-98cd-b7fc9cefed47.png)
 ### A news congregator for all of the latest cybersecurity news in the healthcare industry.
 
 ## Description

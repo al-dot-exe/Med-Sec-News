@@ -1,3 +1,4 @@
+import { FaHeart } from "react-icons/fa";
 export interface Props {
   title: string;
 }
@@ -8,13 +9,26 @@ const Footer = (props: Props) => {
       <h3>
         <a href="/">{props.title}</a>
       </h3>
-      <small>Made with love by <a href="https://alexe-tech.github.io">Alex Burton</a></small>
+      <small>
+        Made with
+        {" "}
+        <FaHeart style={{color: 'red'}} />
+        {" "}
+        by{" "}
+        <a
+          href="https://alexe-tech.github.io"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Alex Burton
+        </a>
+      </small>
     </footer>
   );
 };
 
 Footer.defaultProps = {
-  title: "Medcrypt News",
+  title: "Med Sec News",
 };
 
 export default Footer;

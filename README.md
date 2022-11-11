@@ -1,47 +1,18 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
 # Medical Security News
+
+### A news congregator for all of the latest cybersecurity news in the healthcare industry.
+
+## Description
+This project serves as a small sample of my ability to develop a web application front end quickly using React components.
+As the title mentions, this news congregator utilizes the [News API](https://newsapi.org/) to serve the most recent articles in the healthcare security industry in the past 6 months, of course, with a focus on medical device security
+
+I elected to use React.ts to learn more about how data types can make frontend development more succinct and robust. 
+
+### What's next?
+Since this is a demo project, it will not be in active as of right now, however many features could easily be added to the UI to give it a better user experience.
+Things that could be included are the following:
+
+- A simple way to filter articles by various parameters such as title, date, or author.
+- A search bar to be able to quickly search for a specific article.
+- A sticky scroll up button that appears once user scroll below the initial fold of the page.
+- Many other features

@@ -1,0 +1,934 @@
+{
+  "articles": [
+    {
+      "source": { "id": "the-verge", "name": "The Verge" },
+      "author": "Nilay Patel",
+      "title": "Never pay the ransom — a cybersecurity CEO explains why",
+      "description": "Ransomware attacks still plague our healthcare system. Steve Cagle’s cybersecurity company Clearwater Compliance is trying to prevent them and protect patients’ healthcare data.",
+      "url": "https://www.theverge.com/23410990/cybersecurity-ransomware-healthcare-data-hipaa-hospitals",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/zP-Fr6Hsjea-PYDjqb35DDYaWg0=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/24087582/Decoder_vincentkilbride_theverge.jpg",
+      "publishedAt": "2022-10-27T14:54:21Z",
+      "content": "Ransomware attacks still plague our healthcare system. Steve Cagles cybersecurity company is trying to prevent them.\r\nByNilay Patel / @reckless\r\nOct 27, 2022, 2:54 PM UTC|\r\nThis bonus episode of Deco… [+57040 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "insider@insider.com (Peter Rothbart)",
+      "title": "The best identity theft protection services of 2022",
+      "description": "Identity theft protection services can reduce the risk of having your identity stolen. These programs help make you less of a target for fraud.",
+      "url": "https://www.businessinsider.com/personal-finance/best-identity-theft-protection-services",
+      "urlToImage": "https://i.insider.com/63594f41fc29ff001a5f81f1?width=1200&format=jpeg",
+      "publishedAt": "2022-10-28T17:37:13Z",
+      "content": "Insider's experts choose the best products and services to help make smart decisions with your money (heres how). In some cases, we receive a commission from our our partners, however, our opinions a… [+11874 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Forbes" },
+      "author": "Yevgeny Dibrov, Forbes Councils Member, \n Yevgeny Dibrov, Forbes Councils Member\n https://www.forbes.com/sites/forbestechcouncil/people/yevgenydibrov/",
+      "title": "Why Securing Connected Devices Is Critical To Driving Cyber Resilience In Healthcare",
+      "description": "Connectivity and technology will only continue to drive the future of healthcare innovation and patient care, but simultaneously ensuring device security is just as important.",
+      "url": "https://www.forbes.com/sites/forbestechcouncil/2022/10/10/why-securing-connected-devices-is-critical-to-driving-cyber-resilience-in-healthcare/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/627d0d1e1e7516cbb623ad21/0x0.jpg?format=jpg&width=1200",
+      "publishedAt": "2022-10-10T12:00:00Z",
+      "content": "Yevgeny Dibrov is the Co-Founder &amp; CEO of Armis, a leading enterprise-class agentless device security platform.\r\ngetty\r\nHealthcare organizations and their patients are in the security hot seat, m… [+6813 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Help Net Security" },
+      "author": "Help Net Security",
+      "title": "Don’t wait for medical device cybersecurity legislation: Act now to save patients’ lives",
+      "description": "Cyberattacks can cost lives — especially in the healthcare sector. Nearly a quarter of healthcare providers victimized by ransomware reported increased mortality rates following an attack, and 70% experienced longer hospital stays or procedure delays leading …",
+      "url": "https://www.helpnetsecurity.com/2022/10/25/medical-device-cybersecurity-compliance/",
+      "urlToImage": "https://img.helpnetsecurity.com/wp-content/uploads/2017/06/09103807/hospital.jpeg",
+      "publishedAt": "2022-10-25T05:00:18Z",
+      "content": "Cyberattacks can cost lives especially in the healthcare sector. Nearly a quarter of healthcare providers victimized by ransomware reported increased mortality rates following an attack, and 70% expe… [+6148 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Forbes" },
+      "author": "MeiMei Fox, Contributor, \n MeiMei Fox, Contributor\n https://www.forbes.com/sites/meimeifox/",
+      "title": "Meet The Female Founders Reshaping The Male-Dominated Cybersecurity Industry",
+      "description": "With only 24% of total employees and 11% of the C-suite executives at cybersecurity companies being female, it is past time to shift the gender balance in the industry. Two women are doing just that: Aimei Wei, the founder and CTO of Stellar Cyber, and Natali…",
+      "url": "https://www.forbes.com/sites/meimeifox/2022/11/03/meet-the-female-founders-reshaping-the-male-dominated-cybersecurity-industry/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6362f1f29b8220cf8827c5a2/0x0.jpg?format=jpg&crop=2186,1638,x120,y0,safe&width=1200",
+      "publishedAt": "2022-11-03T21:10:47Z",
+      "content": "Only 24% of cybersecurity employees, and just 11% of the C-suite executives, are women. \r\ngetty\r\nThe recent Women in the Workplace report from McKinsey &amp; Co. and LeanIn revealed that we are in th… [+5678 chars]"
+    },
+    {
+      "source": { "id": null, "name": "WebMD" },
+      "author": "Laura Tedesco",
+      "title": "What If Big Tech Could Read Your Mind?",
+      "description": "Brain implants can help paralyzed people move and minimally conscious people speak. But if we don’t address complicated ethical questions now, we could risk serious consequences.",
+      "url": "https://www.webmd.com/brain/news/20221012/what-if-big-tech-could-read-your-mind-brain-implants",
+      "urlToImage": "https://img.webmd.com/vim/live/webmd/consumer_assets/site_images/article_thumbnails/other/social_media_mental_health_header_image_other/1800x1200_getty_rf_social_media_mental_health_header_image_other.jpg",
+      "publishedAt": "2022-10-12T17:07:55Z",
+      "content": "But as device signals become clearer, data will become more precise. Eventually, says Dubljevic, scientists may be able to figure out attitudes or psychological states.\r\nSomeone could be labeled as l… [+1950 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Forbes" },
+      "author": "John Giordani, Forbes Councils Member, \n John Giordani, Forbes Councils Member\n https://www.forbes.com/sites/forbestechcouncil/people/johngiordani/",
+      "title": "The Necessity Of Cybersecurity In The Nonprofit Sector",
+      "description": "While network security is important, it is only part of a comprehensive approach to information security. Every organization has different security needs, and there is no one-size-fits-all approach to security.",
+      "url": "https://www.forbes.com/sites/forbestechcouncil/2022/11/08/the-necessity-of-cybersecurity-in-the-non-profit-sector/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/63690213af423154d3aecc89/0x0.jpg?format=jpg&width=1200",
+      "publishedAt": "2022-11-08T11:15:00Z",
+      "content": "John Giordani has extensive experience in cybersecurity and information assurance.\r\ngetty\r\nNonprofits collect and store information about individuals who are often vulnerable and at-risk, like low-in… [+5727 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Business Wire" },
+      "author": null,
+      "title": "MDIC Publishes First MedTech Cybersecurity Maturity Benchmarking Report",
+      "description": "ARLINGTON, Va.--(BUSINESS WIRE)--The Medical Device Innovation Consortium (MDIC) today released the first benchmark report of the medical device industry’s cybersecurity maturity in partnership with Booz Allen Hamilton. The online tool MDIC developed for surv…",
+      "url": "https://www.businesswire.com/news/home/20221026005019/en/MDIC-Publishes-First-MedTech-Cybersecurity-Maturity-Benchmarking-Report",
+      "urlToImage": "https://mms.businesswire.com/media/20221026005019/en/1611686/23/logo-1.jpg",
+      "publishedAt": "2022-10-26T13:38:25Z",
+      "content": "ARLINGTON, Va.--(BUSINESS WIRE)--The Medical Device Innovation Consortium (MDIC) today released the first benchmark report of the medical device industrys cybersecurity maturity in partnership with B… [+5761 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": "Asimily",
+      "title": "Asimily Wins Multiple Cybersecurity Awards as Healthcare Delivery Organization CISOs Turn to Asimily Insight to Continuously Protect Mission-Critical Devices",
+      "description": "The medical IoT device risk management platform provider adds five prestigious awards to its trophy case, putting Asimily’s major honors into double digits...",
+      "url": "https://finance.yahoo.com/news/asimily-wins-multiple-cybersecurity-awards-145000461.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/MCbeMsXI5_l3hi9z9yAyFg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MTk-/https://media.zenfs.com/en/globenewswire.com/cd45c3e772a9833049a6ac0c24c96198",
+      "publishedAt": "2022-11-03T14:50:00Z",
+      "content": "The medical IoT device risk management platform provider adds five prestigious awards to its trophy case, putting Asimilys major honors into double digits on the year\r\nSUNNYVALE, Calif., Nov. 03, 202… [+4115 chars]"
+    },
+    {
+      "source": { "id": null, "name": "MobiHealthNews" },
+      "author": null,
+      "title": "Roundup: Singular Health gets 510(k) for 3Dicom MD and more briefs",
+      "description": "Also, Cabrini Technology is adding medical device cybersecurity to its service offerings.",
+      "url": "https://www.mobihealthnews.com/news/anz/roundup-singular-health-gets-510k-3dicom-md-and-more-briefs",
+      "urlToImage": "https://www.mobihealthnews.com/sites/default/files/3Dicom-MD-Header-Image-1024x640.jpg",
+      "publishedAt": "2022-10-28T04:34:04Z",
+      "content": "Singular Health scores 510(k) for 3D DICOM viewer software\r\nASX-listed medical technology firm Singular Health Group has received a 510(k) clearance from the US Food and Drug Administration for 3Dico… [+2120 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Help Net Security" },
+      "author": "Industry News",
+      "title": "Ordr and Sodexo join forces to mitigate risks and secure healthcare devices",
+      "description": "Ordr has partnered with Sodexo Healthcare Technology Management to deliver a managed HTM and cybersecurity solution that combines the strengths of Ordr’s connected device security platform with Sodexo’s healthcare technology management services expertise. The…",
+      "url": "https://www.helpnetsecurity.com/2022/11/11/ordr-sodexo/",
+      "urlToImage": "https://img.helpnetsecurity.com/wp-content/uploads/2021/10/14111328/handshake_1200.jpg",
+      "publishedAt": "2022-11-11T00:25:29Z",
+      "content": "Ordr has partnered with Sodexo Healthcare Technology Management to deliver a managed HTM and cybersecurity solution that combines the strengths of Ordr’s connected device security platform with Sodex… [+4603 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": "PR Newswire",
+      "title": "MCRA Expands Biostatistics Division with Key Hire of Former FDA Biostatistician",
+      "description": "MCRA, LLC, a leading medical device focused regulatory advisory firm and clinical research organization (CRO) integrating U.S. and International Regulatory...",
+      "url": "https://finance.yahoo.com/news/mcra-expands-biostatistics-division-key-152400195.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/Pczj0W1I5wMXmnVZam59yw--~B/aD0xOTg7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/prnewswire.com/4a4aec4b73cec2ae3ca85cd845a032d3",
+      "publishedAt": "2022-10-20T15:24:00Z",
+      "content": "WASHINGTON, Oct. 20, 2022 /PRNewswire/ -- MCRA, LLC, a leading medical device focused regulatory advisory firm and clinical research organization (CRO) integrating U.S. and International Regulatory A… [+5297 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": "PR Newswire",
+      "title": "Azzur Group Welcomes Cybersecurity Expert, Mariano Mattei, to Lead Cybersecurity Services for Life Science Clients",
+      "description": "The life sciences industry ranks number three in the amount of cybersecurity breaches nationwide, with targets tripling since the rise of the COVID-19...",
+      "url": "https://finance.yahoo.com/news/azzur-group-welcomes-cybersecurity-expert-220400362.html",
+      "urlToImage": "https://media.zenfs.com/en/prnewswire.com/d0b4870d70bd4f1444ca5c485b1519f9",
+      "publishedAt": "2022-11-08T22:04:00Z",
+      "content": "Mariano Mattei brings extensive experience as a CISO Consultant providing governance, risk, and compliance solutions \r\nHATBORO, Pa., Nov. 8, 2022 /PRNewswire/ -- The life sciences industry ranks numb… [+3680 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": "Market Research Future",
+      "title": "Wearable Medical Device Market Size Worth USD 174.48 Billion by 2030 at 27.1% CAGR – Report by Market Research Future (MRFR)",
+      "description": "Wearable Medical Device Market Size, Trends Analysis By Type (Activity Monitors, Smart Watches, Smart Clothing, Patches), Device Type (Diagnostic...",
+      "url": "https://finance.yahoo.com/news/wearable-medical-device-market-size-093000418.html",
+      "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
+      "publishedAt": "2022-10-26T09:30:00Z",
+      "content": "Wearable Medical Device Market Size, Trends Analysis By Type (Activity Monitors, Smart Watches, Smart Clothing, Patches), Device Type (Diagnostic &amp; Monitoring Devices, Therapeutic Devices), Appli… [+10691 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": "Global Market Insights Inc.",
+      "title": "Healthcare Cybersecurity Market to hit USD 59 billion by 2030, says Global Market Insights Inc.",
+      "description": "Healthcare Cybersecurity industry is anticipated to register 18% CAGR between 2022 and 2030 owing to increasing incidences of data leaks in developing...",
+      "url": "https://finance.yahoo.com/news/healthcare-cybersecurity-market-hit-usd-081000483.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/4vZNxdALYb_gxHFyXT12fw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NzE-/https://media.zenfs.com/en/globenewswire.com/75afa6f1b8cd889ac299b3b0edec1918",
+      "publishedAt": "2022-10-26T08:10:00Z",
+      "content": "Global Market Insights Inc.\r\nHealthcare Cybersecurity industry is anticipated to register 18% CAGR between 2022 and 2030 owing to increasing incidences of data leaks in developing countries.\r\nSelbyvi… [+5688 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Healthcare IT News" },
+      "author": "mike.miliard@medtechmedia.com; Twitter: @MikeMiliardHITN (Mike Miliard)",
+      "title": "Indiana University building a medical device security lab with TriMedX",
+      "description": "The goal is to help healthcare organizations \"remediate vulnerabilities before equipment reaches the patient floor.\"",
+      "url": "https://www.healthcareitnews.com/news/indiana-university-building-medical-device-security-lab-trimedx",
+      "urlToImage": "https://www.healthcareitnews.com/sites/hitn/files/Cybersecurity%20professional-HITN.png",
+      "publishedAt": "2022-10-27T14:25:40Z",
+      "content": "Indiana University Health is working with TriMedX to create a new cybersecurity lab that will  assess and test medical device security, in hopes of reducing cybersecurity threats as part of the devic… [+3099 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Help Net Security" },
+      "author": "Help Net Security",
+      "title": "Week in review: 3FA, Fortinet firewalls under attack, and the riskiest connected devices",
+      "description": "Lack of transparency, systemic risks weaken national cybersecurity preparedness Bob Kolasky, SVP for Critical Infrastructure at Exiger, previously served as Assistant Director for Cybersecurity and Infrastructure Security Agency (CISA), and in this Help Net S…",
+      "url": "https://www.helpnetsecurity.com/2022/10/16/week-in-review-3fa-fortinet-firewalls-under-attack-and-the-riskiest-connected-devices/",
+      "urlToImage": "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/16094612/week_in_review1.jpg",
+      "publishedAt": "2022-10-16T08:30:44Z",
+      "content": "Lack of transparency, systemic risks weaken national cybersecurity preparednessBob Kolasky, SVP for Critical Infrastructure at Exiger, previously served as Assistant Director for Cybersecurity and In… [+6704 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": "PR Newswire",
+      "title": "Netwrix Study: 86% of Cloud Attacks in the Healthcare Sector Result in Financial Losses or Other Damage",
+      "description": "Netwrix, a cybersecurity vendor that makes data security easy, today announced additional findings for the healthcare sector from its global 2022 Cloud...",
+      "url": "https://finance.yahoo.com/news/netwrix-study-86-cloud-attacks-120400553.html",
+      "urlToImage": "https://media.zenfs.com/en/prnewswire.com/d54ae5f84d4b6adf9d114dd639578f77",
+      "publishedAt": "2022-10-27T12:04:00Z",
+      "content": "The healthcare sector is twice as likely to face data breach consequences as any other industry surveyed.\r\nFRISCO, Texas, Oct. 27, 2022 /PRNewswire/ -- Netwrix, a cybersecurity vendor that makes data… [+3084 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Forbes" },
+      "author": "Wes Wright, Forbes Councils Member, \n Wes Wright, Forbes Councils Member\n https://www.forbes.com/sites/forbestechcouncil/people/weswright1/",
+      "title": "When Regulations Don't Do Enough To Protect Critical Infrastructure, Digital Identity Can Help",
+      "description": "Organizations need to be proactive in identifying attack trends and implementing defenses. To understand your biggest weaknesses, take a close look at what’s caused your digital environment to change.",
+      "url": "https://www.forbes.com/sites/forbestechcouncil/2022/11/02/when-regulations-dont-do-enough-to-protect-critical-infrastructure-digital-identity-can-help/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/5ff36be0340ffbd833a00b33/0x0.jpg?format=jpg&width=1200",
+      "publishedAt": "2022-11-02T11:00:00Z",
+      "content": "Chief technology officer at Imprivata, a healthcare IT security company. \r\ngetty\r\nFor over two decades, the federal government has issued directives and regulations to protect critical infrastructure… [+6493 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": "Keysight Technologies",
+      "title": "6G Cybersecurity Will Transform How We Deal With Cyberattacks",
+      "description": "As researchers and the industry move towards 6G technology, cybersecurity has been recognized as a pivotal field that will minimize the risk of digital...",
+      "url": "https://finance.yahoo.com/news/6g-cybersecurity-transform-deal-cyberattacks-132500939.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/bGrC7TJFfpkmdTSdHqiBtA--~B/aD00MDA7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/accesswire.ca/9c770e205a5fee7aab753bfb93f8b387",
+      "publishedAt": "2022-10-24T13:25:00Z",
+      "content": "NORTHAMPTON, MA / ACCESSWIRE / October 24, 2022 / As researchers and the industry move towards 6G technology, cybersecurity has been recognized as a pivotal field that will minimize the risk of digit… [+10824 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": "Aluf Holdings Inc.",
+      "title": "Aluf Holdings Inc Gives Update on Development of Digital Healthcare Device",
+      "description": "FT. LAUDERDALE, Fla., Nov. 01, 2022 (GLOBE NEWSWIRE) -- Aluf Holdings, Inc. (\"AHIX\") (\"Aluf\") (OTC PINK: AHIX), a holding company headquartered in Fort...",
+      "url": "https://finance.yahoo.com/news/aluf-holdings-inc-gives-development-120200583.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/t3Xg4WUm_YQN8hGm.owAEQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xMTEx/https://media.zenfs.com/en/globenewswire.com/6821051e9e32300f68c890e63dc676d0",
+      "publishedAt": "2022-11-01T12:02:00Z",
+      "content": "FT. LAUDERDALE, Fla., Nov. 01, 2022 (GLOBE NEWSWIRE) -- Aluf Holdings, Inc. (\"AHIX\") (\"Aluf\") (OTC PINK: AHIX), a holding company headquartered in Fort Lauderdale, FL, engaged in acquiring, operating… [+3003 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": "PR Newswire",
+      "title": "Railway Cybersecurity Market Worth $13.7 Billion, Globally, by 2028 at 10.7% CAGR | The Insight Partners",
+      "description": "The Insight Partners published latest research study on \"Railway Cybersecurity Market Size, Share, Revenue, Growth Strategy, Industry Trends and Forecast to ...",
+      "url": "https://finance.yahoo.com/news/railway-cybersecurity-market-worth-13-083000567.html",
+      "urlToImage": "https://media.zenfs.com/en/prnewswire.com/d3d4658a75c1eeeac2914f85284d92c8",
+      "publishedAt": "2022-10-28T08:30:00Z",
+      "content": "NEW YORK, Oct. 28, 2022 /PRNewswire/ -- The Insight Partners published latest research study on \"Railway Cybersecurity Market\r\nSize, Share, Revenue, Growth Strategy, Industry Trends and Forecast to 2… [+19421 chars]"
+    },
+    {
+      "source": { "id": null, "name": "MedCity News" },
+      "author": "Katie Adams",
+      "title": "Medical Device Security Startup Reels in $25M as Cyber Threats Escalate - MedCity News",
+      "description": "MedCrypt, a San Diego-based provider of cybersecurity solutions for medical devices, recently closed a $25 million Series B funding round. The startup sells its software to medical devices manufacturers so they can enhance the security of their products, whic…",
+      "url": "https://medcitynews.com/2022/11/medical-device-security-startup-reels-in-25m-as-cyber-threats-escalate/",
+      "urlToImage": "https://medcitynews.com/uploads/2021/09/GettyImages-1291733241.jpg",
+      "publishedAt": "2022-11-03T23:00:36Z",
+      "content": "Healthcare organizations need to take cybersecurity seriously now more than ever  more than 50.4 million patient records were breached last year. \r\nThis urgency is reflected in a recent Series B fund… [+3471 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Help Net Security" },
+      "author": "Industry News",
+      "title": "Cybellum Product Incident Response module helps PSIRT investigate threats related to devices in the field",
+      "description": "Cybellum has launched a new Product Incident Response module to help Product Security Incident Response Teams (PSIRT) to monitor and investigate threats related to devices that are already in operational use in the field. Enhanced workflow automation gives PS…",
+      "url": "https://www.helpnetsecurity.com/2022/10/20/cybellum-product-incident-response/",
+      "urlToImage": "https://img.helpnetsecurity.com/wp-content/uploads/2021/10/20092552/security_platforma_1200.jpg",
+      "publishedAt": "2022-10-20T02:05:40Z",
+      "content": "Cybellum has launched a new Product Incident Response module to help Product Security Incident Response Teams (PSIRT) to monitor and investigate threats related to devices that are already in operati… [+1722 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Help Net Security" },
+      "author": "Help Net Security",
+      "title": "Week in review: OpenSSL critical fix, Medibank data breach, Apple fixes zero-day vulnerability",
+      "description": "Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: Incoming OpenSSL critical fix: Organizations, users, get ready! The OpenSSL Project team has announced that, on November 1, 2022, they will release OpenSSL versi…",
+      "url": "https://www.helpnetsecurity.com/2022/10/30/week-in-review-openssl-critical-fix-medibank-data-breach-apple-fixes-zero-day-vulnerability/",
+      "urlToImage": "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/16094609/week_in_review3.jpg",
+      "publishedAt": "2022-10-30T09:00:55Z",
+      "content": "Heres an overview of some of last weeks most interesting news, articles, interviews and videos:\r\nIncoming OpenSSL critical fix: Organizations, users, get ready!The OpenSSL Project team has announced … [+7891 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": "Vantage Market Research",
+      "title": "Healthcare Cybersecurity Market Size & Share to Surpass $15.25 Bn by 2028 | Vantage Market Research",
+      "description": "WASHINGTON, Oct. 26, 2022 (GLOBE NEWSWIRE) -- Vantage Market Research’s recent analysis of the Healthcare Cybersecurity Market is expected to witness market ...",
+      "url": "https://finance.yahoo.com/news/healthcare-cybersecurity-market-size-share-103500762.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/.1l2dRhMAr9ckt20pkfOtw--~B/aD0yNTY7dz01Mzk7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/globenewswire.com/6f880bf126de30dfde36722a390df3e0",
+      "publishedAt": "2022-10-26T10:35:00Z",
+      "content": "Vantage Market Research, The North Star for the Working World\r\nWASHINGTON, Oct. 26, 2022 (GLOBE NEWSWIRE) -- Vantage Market Researchs recent analysis of the Healthcare Cybersecurity Market is expecte… [+12058 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Business Wire" },
+      "author": null,
+      "title": "Forescout Launches Forescout Assist to Empower Organizations with 24/7 Threat Detection, Investigation and Response Expertise and Capabilities",
+      "description": "SAN JOSE, Calif.--(BUSINESS WIRE)--Forescout Technologies, Inc., the global leader in automated cybersecurity, today launched Forescout Assist for Healthcare and Forescout Assist for OT/ICS, new subscription services that provide organizations’ IT security an…",
+      "url": "https://www.businesswire.com/news/home/20221101005625/en/Forescout-Launches-Forescout-Assist-to-Empower-Organizations-with-247-Threat-Detection-Investigation-and-Response-Expertise-and-Capabilities",
+      "urlToImage": "https://mms.businesswire.com/media/20221101005625/en/1620379/23/78bb5110-73fe-4ec9-990c-4b7afbe55923.jpg",
+      "publishedAt": "2022-11-01T10:12:05Z",
+      "content": "SAN JOSE, Calif.--(BUSINESS WIRE)--Forescout Technologies, Inc., the global leader in automated cybersecurity, today launched Forescout Assist for Healthcare and Forescout Assist for OT/ICS, new subs… [+3329 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Help Net Security" },
+      "author": "Helga Labus",
+      "title": "Your CCTV devices can be hacked and weaponized",
+      "description": "In this interview for Help Net Security, Camellia Chan, CEO at Flexxon, talks about the dangers of closed-circuit television (CCTV) hacks and what users can do to protect themselves. More and more homes are being equipped with CCTV. While it can be very usefu…",
+      "url": "https://www.helpnetsecurity.com/2022/10/27/cctv-hacks/",
+      "urlToImage": "https://img.helpnetsecurity.com/wp-content/uploads/2022/10/26114937/camellia_chan-2-flexxon.jpg",
+      "publishedAt": "2022-10-27T05:00:25Z",
+      "content": "In this interview for Help Net Security, Camellia Chan, CEO at Flexxon, talks about the dangers of closed-circuit television (CCTV) hacks and what users can do to protect themselves.\r\nMore and more h… [+5346 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": "PR Newswire",
+      "title": "Ventricular Assist Device Market Worth $1.8Bn, Globally, by 2028 at 5.1% CAGR | The Insight Partners",
+      "description": "The Insight Partners published latest research study on \"Left Ventricular Assist Device Market Size, Share, Revenue, Growth Strategy, Industry Trends and...",
+      "url": "https://finance.yahoo.com/news/ventricular-assist-device-market-worth-093000577.html",
+      "urlToImage": "https://media.zenfs.com/en/prnewswire.com/d3d4658a75c1eeeac2914f85284d92c8",
+      "publishedAt": "2022-10-28T09:30:00Z",
+      "content": "NEW YORK, Oct. 28, 2022 /PRNewswire/ -- The Insight Partners published latest research study on \"Left Ventricular Assist Device Market\r\nSize, Share, Revenue, Growth Strategy, Industry Trends and Fore… [+17919 chars]"
+    },
+    {
+      "source": { "id": null, "name": "HackRead" },
+      "author": "Owais Sultan",
+      "title": "Cybersecurity Threats to Health Services: Why We Should Be Concerned",
+      "description": "By Owais Sultan\nHospitals and medical facilities are lucrative targets for hackers. It’s not enough anymore to keep software updated and…\nThis is a post from HackRead.com Read the original post: Cybersecurity Threats to Health Services: Why We Should Be Conce…",
+      "url": "https://www.hackread.com/cybersecurity-threats-health-services-concern/",
+      "urlToImage": "https://www.hackread.com/wp-content/uploads/2022/10/cybersecurity-threats-health-services-concern.jpg",
+      "publishedAt": "2022-10-12T11:30:13Z",
+      "content": "Hospitals and medical facilities are lucrative targets for hackers. Its not enough anymore to keep software updated and make backups once a week. Instead, hospitals should ask questions like: what is… [+6668 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": "Kenneth Research",
+      "title": "Global Cybersecurity Market to Grow at a CAGR of ~12% during 2022-2031; Market to Expand on the Back of the Increasing Number of Cyberattacks across the World – Kenneth Research",
+      "description": "Key Companies Covered in the Global Cybersecurity Market Research Report by Kenneth Research are IBM Corporation, Imperva Inc., FireEye, Inc., Dell Inc...",
+      "url": "https://finance.yahoo.com/news/global-cybersecurity-market-grow-cagr-095600199.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/NGRlWwIKUWED8h1_PHiBGQ--~B/aD03ODt3PTIxMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/globenewswire.com/c3fca306eea8b31920d86e491218223b",
+      "publishedAt": "2022-10-18T09:56:00Z",
+      "content": "Key Companies Covered in the Global Cybersecurity Market Research Report by Kenneth Research are IBM Corporation, Imperva Inc., FireEye, Inc., Dell Inc., Broadcom Inc., Avast Software s.r.o., Cisco S… [+11949 chars]"
+    },
+    {
+      "source": { "id": null, "name": "SiliconANGLE News" },
+      "author": "Kyt Dotson",
+      "title": "MedCrypt raises $25M to secure medical devices from cyberattack",
+      "description": "The proactive cybersecurity solution provider MedCrypt Inc. today raised $25 million in new funding to protect healthcare providers from attacks that target connected medical devices and reduce the danger to patients and hospitals. Intuitive Ventures and John…",
+      "url": "https://siliconangle.com/2022/11/01/medcrypt-raises-25m-secure-medical-devices-cyberattack/",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/03/stethoscope-2617701_1280.jpg",
+      "publishedAt": "2022-11-01T16:35:05Z",
+      "content": "The proactive cybersecurity solution provider MedCrypt Inc. today said it has raised $25 million in new funding to protect healthcare providers from attacks that target connected medical devices and … [+3803 chars]"
+    },
+    {
+      "source": { "id": null, "name": "SC Magazine" },
+      "author": "Greg  Murphy",
+      "title": "Six ways healthcare organizations can improve connected device security - SC Media",
+      "description": "Healthcare organizations still need Code Dark protocols for emergencies, but along with support from the medical device community, there are practical steps security teams can take to improve device security, including embracing automation and the latest moni…",
+      "url": "https://www.scmagazine.com/perspective/device-security/six-ways-healthcare-organizations-can-improve-connected-device-security%ef%bf%bc",
+      "urlToImage": "https://www.scmagazine.com/images/fallback-image.png",
+      "publishedAt": "2022-11-08T11:00:00Z",
+      "content": "A Wall Street Journal article this past summer entitled Code Dark: Childrens Hospital Strives to Minimize Impact of Hacks, describes a new trend in healthcare: in the event of a cyberattack, hospital… [+7388 chars]"
+    },
+    {
+      "source": { "id": null, "name": "EIN News" },
+      "author": null,
+      "title": "Asimily Wins Multiple Cybersecurity Awards as Healthcare Delivery Organization CISOs Turn to Asimily Insight to Continuously Protect Mission-Critical Devices - EIN News",
+      "description": "Asimily Wins Multiple Cybersecurity Awards as Healthcare Delivery Organization CISOs Turn to Asimily Insight to Continuously Protect Mission-Critical Devices  EIN News",
+      "url": "https://www.einnews.com/pr_news/599337280/asimily-wins-multiple-cybersecurity-awards-as-healthcare-delivery-organization-cisos-turn-to-asimily-insight-to-continuously-protect-mission-critical",
+      "urlToImage": "https://www.globenewswire.com/newsroom/ti?nf=ODY4NjkxNyM1MjM3MTExIzUwMDEwNTIyNg==",
+      "publishedAt": "2022-11-03T14:50:00Z",
+      "content": "/EIN News/ -- SUNNYVALE, Calif., Nov. 03, 2022 (GLOBE NEWSWIRE) -- Asimily\r\n, a leading risk management platform for IoT devices and web-connected equipment, today announced that the company has rece… [+3976 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": "News Direct",
+      "title": "MedAcuity Appoints New VP of People Operations and Director of Quality Assurance",
+      "description": "Jeanne Raney and Andy Sageman Join MedTech Software Development Leader’s Team, Respectively",
+      "url": "https://finance.yahoo.com/news/medacuity-appoints-vp-people-operations-141500116.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/SjGPZCzBdOqBKqCkUr7Hdw--~B/aD0xMDA7dz0zMDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/news_direct/a395cdc5a756b01ce1d654d8503aa44d",
+      "publishedAt": "2022-10-12T14:15:00Z",
+      "content": "Jeanne Raney and Andy Sageman Join MedTech Software Development Leaders Team, Respectively\r\nWestford, Massachusetts --News Direct-- MedAcuity\r\nMedAcuity, the go-to Boston-based software development p… [+4067 chars]"
+    },
+    {
+      "source": { "id": null, "name": "ZDNet" },
+      "author": "Eileen Yu",
+      "title": "Singapore, Germany to mutually recognise IoT cybersecurity labels - ZDNet",
+      "description": "The two countries have signed an agreement to recognise their respective security rating mechanism for a range of consumer products, including smart televisions, smart speakers, health trackers, and home automation hubs.",
+      "url": "https://www.zdnet.com/article/singapore-germany-to-mutually-recognise-iot-cybersecurity-labels/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/c55d331f1c2f5053a9f3a444df89bf52298074fb/2016/07/20/82ce1fd8-6817-4a64-b065-ae245ad00e8e/istock-internet-of-things.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2022-10-20T19:18:32Z",
+      "content": "Singapore and Germany have inked a pact to recognise their respective cybersecurity rating system for smart consumer products, including smart speakers, household robots, and home automation hubs. Th… [+5240 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Help Net Security" },
+      "author": "Industry News",
+      "title": "Perygee raises $4.75 million to secure most vulnerable IoT and OT devices",
+      "description": "Perygee has closed a $4.75 million seed investment led by Ballistic Ventures. The round also includes investment from cybersecurity angels Ray Rothrock, John Donovan, Ohad Finkelstein, Corey Thomas, and Bryson Bort, as well as BBG Ventures, which backs early-…",
+      "url": "https://www.helpnetsecurity.com/2022/10/27/perygee-funding/",
+      "urlToImage": "https://img.helpnetsecurity.com/wp-content/uploads/2021/10/14111334/money_1200.jpg",
+      "publishedAt": "2022-10-26T22:55:09Z",
+      "content": "Perygee has closed a $4.75 million seed investment led by Ballistic Ventures. The round also includes investment from cybersecurity angels Ray Rothrock, John Donovan, Ohad Finkelstein, Corey Thomas, … [+5007 chars]"
+    },
+    {
+      "source": { "id": "newsweek", "name": "Newsweek" },
+      "author": "David Faris",
+      "title": "4 Strategies Healthcare Leaders Must Employ to Make Their IT Security Stronger",
+      "description": "Considering all factors for a healthcare organization's cybersecurity can only make it stronger and keep systems secure.",
+      "url": "https://www.newsweek.com/4-strategies-healthcare-leaders-must-employ-make-their-it-security-stronger-1756377",
+      "urlToImage": "https://d.newsweek.com/en/full/2142917/cyber-security-concept.jpg",
+      "publishedAt": "2022-11-03T13:31:07Z",
+      "content": "Healthcare leaders are recognizing the potential of cyberattacks on their organizations' daily operations. Combatting these attacks and potential breaches of clinical and patient data requires in-dep… [+5888 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Forbes" },
+      "author": "Pete Wilkins, Contributor, \n Pete Wilkins, Contributor\n https://www.forbes.com/sites/peterandrewwilkins/",
+      "title": "What Drives The University Of Michigan’s Entrepreneurial Success",
+      "description": "The University of Michigan in developing the next generation of startup founders and entrepreneurial-minded innovators that are well prepared to make a positive impact on the world.",
+      "url": "https://www.forbes.com/sites/peterandrewwilkins/2022/10/11/what-drives-the-university-of-michigans-entrepreneurial-success/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6344629488d155bb05de06ab/0x0.jpg?format=jpg&crop=2229,1253,x3,y0,safe&width=1200",
+      "publishedAt": "2022-10-11T12:10:27Z",
+      "content": "The University of Michigan, Ann Arbor, MI \r\ngetty\r\nIn preparation of speaking at the Michigan Tech Week (MTW) on October 12 and 13, I discovered so many connections to the University of Michigan (U-M… [+13952 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Business Wire" },
+      "author": null,
+      "title": "Keynote Speakers from Medtronic and Ketryx Corporation Taking the Stage at BIOMEDevice Silicon Valley",
+      "description": "SANTA CLARA, Calif.--(BUSINESS WIRE)--BIOMEDevice Silicon Valley, the must-attend regional show connecting engineers and cutting-edge medtech companies, today announces registration is now live for November. The event also shares its keynote speaker agenda, a…",
+      "url": "https://www.businesswire.com/news/home/20221025005914/en/Keynote-Speakers-from-Medtronic-and-Ketryx-Corporation-Taking-the-Stage-at-BIOMEDevice-Silicon-Valley",
+      "urlToImage": "https://mms.businesswire.com/media/20221025005914/en/1613399/23/P2_926577729_AS_BioMeDevice22_Branding_SilconValleyRedsign_EmailHeaderSample.jpg",
+      "publishedAt": "2022-10-25T16:24:59Z",
+      "content": "SANTA CLARA, Calif.--(BUSINESS WIRE)--BIOMEDevice Silicon Valley, the must-attend regional show connecting engineers and cutting-edge medtech companies, today announces registration is now live for N… [+4388 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Techcircle.in" },
+      "author": null,
+      "title": "PCs, IP cameras, routers, video conferencing systems are putting companies at risk, report - TechCircle",
+      "description": "PCs, routers, printers, IP cameras, hypervisors and video conferencing devices are among the most targeted Information Technology (IT) and Internet of Things (IOT) devices in the world, according to a new study by Vedere Labs and Forescout, a cybersecurity fi…",
+      "url": "https://www.techcircle.in/2022/10/13/pcs-ip-cameras-routers-video-conferencing-systems-are-putting-companies-at-risk-report/",
+      "urlToImage": "https://assets.techcircle.in/uploads/article-image/2022/10/images/30935-computer-4674870-640.jpg",
+      "publishedAt": "2022-10-13T07:37:45Z",
+      "content": "PCs, routers, printers, IP cameras, hypervisors and video conferencing devices are among the most targeted Information Technology (IT) and Internet of Things (IOT) devices in the world, according to … [+2330 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Insurance Journal" },
+      "author": "Admin",
+      "title": "Australia’s No. 1 Health Insurer Confirms Massive Data Breach, Theft of Patient Details",
+      "description": "Australia’s biggest health insurer said on Thursday a criminal had apparently stolen customers’ medical information as part of a massive breach of data, fueling concern about a wave of high-profile cyber attacks. Medibank Private Ltd., which covers one-sixth …",
+      "url": "https://www.insurancejournal.com/news/international/2022/10/20/691026.htm",
+      "urlToImage": "https://www.insurancejournal.com/app/uploads/2022/10/medibank-private-office-in-brisbane-200332264-bigstock-scaled.jpg",
+      "publishedAt": "2022-10-20T06:38:48Z",
+      "content": "Australia’s biggest health insurer said on Thursday a criminal had apparently stolen customers’ medical information as part of a massive breach of data, fueling concern about a wave of high-profile c… [+3383 chars]"
+    },
+    {
+      "source": { "id": null, "name": "ZDNet" },
+      "author": "Danny Palmer",
+      "title": "The metaverse is coming, and the security threats have already arrived",
+      "description": "Even before it arrives, Metaverse cybersecurity challenges need to be addressed -- and quickly.",
+      "url": "https://www.zdnet.com/article/the-metaverse-is-coming-and-the-security-threats-have-already-arrived/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/2e61d5898d83c229fba2bd9ec36090979b422443/2022/09/09/2e55fd0f-8536-4da2-a3a5-d5b6fb572eb2/woman-using-a-virtual-reality-headset-to-access-the-metaverse.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2022-10-12T11:09:13Z",
+      "content": "Image: Getty/Cristina_Annibali_Krinaphoto\r\nThe metaverse is an in-development network of 3D virtual worlds, which people will be able to visit using virtual reality (VR) or augmented reality (AR). Th… [+9133 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Help Net Security" },
+      "author": "Industry News",
+      "title": "Portnox unveils IoT fingerprinting and profiling solution to address rising IoT security threats",
+      "description": "Portnox released a cloud-native IoT security solution to help mid-market and enterprise businesses address rising Internet of Things (IoT) security threats. Now available via the Portnox Cloud, Portnox’s new IoT fingerprinting and profiling capabilities empow…",
+      "url": "https://www.helpnetsecurity.com/2022/10/13/portnox-iot-security-solution/",
+      "urlToImage": "https://img.helpnetsecurity.com/wp-content/uploads/2021/10/20092552/security_platforma_1200.jpg",
+      "publishedAt": "2022-10-13T02:30:56Z",
+      "content": "Portnox released a cloud-native IoT security solution to help mid-market and enterprise businesses address rising Internet of Things (IoT) security threats.\r\nNow available via the Portnox Cloud, Port… [+4498 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Straits Times" },
+      "author": "cue",
+      "title": "New cyber-security labelling scheme for medical devices in the works - The Straits Times",
+      "description": "Healthcare systems here were the target of Singapore’s largest high-profile cyber-security breach in 2018.\n Read more at straitstimes.com.",
+      "url": "https://www.straitstimes.com/tech/tech-news/new-cyber-security-labelling-scheme-for-medical-devices-in-the-works",
+      "urlToImage": "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2022/10/20/WJ8016_4.jpg?VersionId=P71NC7S6DTYeIDFPPR90X3O2W2YyA.It",
+      "publishedAt": "2022-10-20T06:53:46Z",
+      "content": "SINGAPORE - A national labelling scheme will soon allowhealthcare providers and consumers to gauge how secure medical devices are against cyber risks to help them make educated purchasing decisions. … [+2485 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": "Omniscient Neurotechnology",
+      "title": "Omniscient Neurotechnology Appoints Two New Members to Its Board of Directors",
+      "description": "SYDNEY, Australia, Oct. 24, 2022 (GLOBE NEWSWIRE) -- Omniscient Neurotechnology, the brain mapping company creating new possibilities in brain health, today ...",
+      "url": "https://finance.yahoo.com/news/omniscient-neurotechnology-appoints-two-members-123000333.html",
+      "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
+      "publishedAt": "2022-10-24T12:30:00Z",
+      "content": "SYDNEY, Australia, Oct. 24, 2022 (GLOBE NEWSWIRE) -- Omniscient Neurotechnology\r\n, the brain mapping company creating new possibilities in brain health, today announced the appointment of Barbara Nel… [+3598 chars]"
+    },
+    {
+      "source": { "id": null, "name": "PR Newswire UK" },
+      "author": null,
+      "title": "Software as a Medical Device Market to Surpass US$ 5.4 Billion by 2032 as Integration of Internet of Things in Healthcare Sector Surges - PR Newswire UK",
+      "description": "/PRNewswire/ -- The global software as a medical device (SaMD) market is expected to reach US$ 1.1 billion in 2022, registering 16.7% CAGR during the forecast...",
+      "url": "https://www.prnewswire.co.uk/news-releases/software-as-a-medical-device-market-to-surpass-us-5-4-billion-by-2032-as-integration-of-internet-of-things-in-healthcare-sector-surges-301658267.html",
+      "urlToImage": "https://mma.prnewswire.com/media/713666/FactMR_Logo.jpg?p=facebook",
+      "publishedAt": "2022-10-25T10:30:00Z",
+      "content": "AI-Based Software as a Medical Device to Register Over 35% CAGR through 2022 &amp; Beyond\r\nThe latest report on the software as a medical device market conducted by Fact.MR uncovers critical trends a… [+9390 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": "The Insight Partners",
+      "title": "17% CAGR for Microgrid Market Revenue Worth $60 Billion, Globally, by 2028 – Exclusive Research Study by The Insight Partners",
+      "description": "The global microgrid market growth is fuelled by rising demand for reliable and secure power supply to meet the needs of ongoing industrialization and...",
+      "url": "https://finance.yahoo.com/news/17-cagr-microgrid-market-revenue-134000103.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/KRWkrYJTwnmpscAajDHqWA--~B/aD0zMDA7dz0zMDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/globenewswire.com/30cfe6e5f5c1fc4be5c45fd2f8d5c6ab",
+      "publishedAt": "2022-10-14T13:40:00Z",
+      "content": "The global microgrid market growth is fuelled by rising demand for reliable and secure power supply to meet the needs of ongoing industrialization and urbanization. APAC dominated the microgrid marke… [+8172 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Business Wire" },
+      "author": null,
+      "title": "Novo Integrated Sciences’ Subsidiary, Clinical Consultants International, Signs Consulting Services Agreement with Information Technology Company, Softhread",
+      "description": "BELLEVUE, Wash.--(BUSINESS WIRE)---- $NVOS #AAPI--Novo Integrated Sciences, Inc. (NASDAQ: NVOS) (the “Company” or “Novo”), and Clinical Consultants International (‘CCI’), a Novo wholly-owned subsidiary, today announced the signing of a Consulting Services Agr…",
+      "url": "https://www.businesswire.com/news/home/20221012005316/en/Novo-Integrated-Sciences%E2%80%99-Subsidiary-Clinical-Consultants-International-Signs-Consulting-Services-Agreement-with-Information-Technology-Company-Softhread",
+      "urlToImage": "https://mms.businesswire.com/media/20221012005316/en/1599182/23/For_PRs_NVOS_Logo_%28640x360%29.jpg",
+      "publishedAt": "2022-10-12T12:05:42Z",
+      "content": "BELLEVUE, Wash.--(BUSINESS WIRE)--Novo Integrated Sciences, Inc. (NASDAQ: NVOS) (the Company or Novo), and Clinical Consultants International (CCI), a Novo wholly-owned subsidiary, today announced th… [+9422 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": "TBRC Business Research PVT LTD",
+      "title": "The Rising Cyber-Attack Cases Are Expected To Propel The Healthcare Cyber Security Market To Over $30 Billion By 2026 As Per The Business Research Company's Healthcare Cyber Security Global Market Report 2022",
+      "description": "The reports have been updated with the most recent Ukraine-Russia War impact on market growth for all 27+ industries. The reports also provide possible...",
+      "url": "https://finance.yahoo.com/news/rising-cyber-attack-cases-expected-153000360.html",
+      "urlToImage": "https://media.zenfs.com/en/globenewswire.com/6ea92029915e9435b83b47a9c0727e3d",
+      "publishedAt": "2022-10-27T15:30:00Z",
+      "content": "TBRC Business Research PVT LTD\r\nThe reports have been updated with the most recent Ukraine-Russia War impact on market growth for all 27+ industries. The reports also provide possible solutions and o… [+7436 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Seeking Alpha" },
+      "author": "SA Transcripts",
+      "title": "ResMed Inc. (RMD) Q1 2023 Results - Earnings Call Transcript",
+      "description": "ResMed Inc. (NYSE:NYSE:RMD) Q1 2023 Earnings Conference Call October 27, 2022 4:30 PM ETCompany ParticipantsAmy Wakeham - VP, IR & Corporate CommunicationsMick Farrell - CEO &...",
+      "url": "https://seekingalpha.com/article/4550183-resmed-inc-rmd-q1-2023-results-earnings-call-transcript",
+      "urlToImage": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "publishedAt": "2022-10-28T01:13:06Z",
+      "content": "ResMed Inc. (NYSE:RMD) Q1 2023 Earnings Conference Call October 27, 2022 4:30 PM ET\r\n Company Participants\r\n Amy Wakeham - VP, IR &amp; Corporate Communications\r\n Mick Farrell - CEO &amp; Director\r\n … [+60090 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Uschamber.com" },
+      "author": "U.S. Chamber Staff",
+      "title": "Joint Statement: 59th U.S.-Japan Business Conference - uschamber.com",
+      "description": "Joint Statement: 59th U.S.-Japan Business Conference  uschamber.com",
+      "url": "https://www.uschamber.com/international/joint-statement-59th-u-s-japan-business-conference",
+      "urlToImage": "https://uschamber.imgix.net/https%3A%2F%2Fwww.uschamber.com%2Fassets%2Fimages%2Fuscc-default-1200x600.png?auto=compress%2Cformat&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.5&fp-y=0.5&h=630&q=80&w=1200&s=bb6e7375c63d2cb9cef0787207594176",
+      "publishedAt": "2022-10-12T17:55:03Z",
+      "content": "Washington, D.C. - Members of the U.S.-Japan Business Council and the Japan-U.S. Business Council (the “Councils”) held the 59th Annual U.S.-Japan Business Conference on October 11-12 in Washington, … [+11981 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": "PR Newswire",
+      "title": "$620+ Million Arbitrary Waveform Generator Market to Grow at 8+% CAGR, Globally, by 2028 Lead by Telecommunications Segment with 26.8% Market Share by 2028, at 7.6% CAGR | The Insight Partners",
+      "description": "The Insight Partners published latest research study on \"Arbitrary Waveform Generator Market Size, Share, Revenue, Growth Strategy, Industry Trends and...",
+      "url": "https://finance.yahoo.com/news/620-million-arbitrary-waveform-generator-120000053.html",
+      "urlToImage": "https://media.zenfs.com/en/prnewswire.com/d3d4658a75c1eeeac2914f85284d92c8",
+      "publishedAt": "2022-10-28T12:00:00Z",
+      "content": "NEW YORK, Oct. 28, 2022 /PRNewswire/ -- The Insight Partners published latest research study on \"Arbitrary Waveform Generator Market\r\nSize, Share, Revenue, Growth Strategy, Industry Trends and Foreca… [+16185 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Technical.ly" },
+      "author": "Michaela Althouse",
+      "title": "RealLIST Engineers 2022: These 15 tech leaders are making their mark on the DMV - Technical.ly",
+      "description": "From cyber stars to federal government power players to the who's who at DC startups, these technologists should be on your radar.",
+      "url": "https://technical.ly/software-development/reallist-engineers-2022-dc/",
+      "urlToImage": "https://technical.ly/wp-content/uploads/2022/10/Reallist-engineers-2022-e1665583989447.jpg",
+      "publishedAt": "2022-10-19T16:19:03Z",
+      "content": "Who’s building DC’s innovation future? We’ll tell you.\r\nIt’s that time again — the time marking the culmination of our weeks of knocking on doors, sliding into DMs and asking anyone and everyone abou… [+11191 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Business Wire" },
+      "author": null,
+      "title": "Perygee Raises $4.75M Seed Round to Secure the Supply Chain’s Most Vulnerable IoT and OT Devices",
+      "description": "BOSTON--(BUSINESS WIRE)-- #iot--Perygee, the company providing a lightweight and complete security platform for Internet of Things (IoT) and Operational Technology (OT), today announced the closing of a $4.75 million seed investment led by Ballistic Ventures.…",
+      "url": "https://www.businesswire.com/news/home/20221024005846/en/Perygee-Raises-4.75M-Seed-Round-to-Secure-the-Supply-Chain%E2%80%99s-Most-Vulnerable-IoT-and-OT-Devices",
+      "urlToImage": "https://mms.businesswire.com/media/20221024005846/en/1611747/23/Perygee_Logo.jpg",
+      "publishedAt": "2022-10-25T14:12:15Z",
+      "content": "BOSTON--(BUSINESS WIRE)--Perygee, the company providing a lightweight and complete security platform for Internet of Things (IoT) and Operational Technology (OT), today announced the closing of a $4.… [+5689 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Business Wire" },
+      "author": null,
+      "title": "Finite State and RKVST Announce Partnership to Accelerate Software Transparency",
+      "description": "COLUMBUS, Ohio & SANTA CLARA, Calif.--(BUSINESS WIRE)--Finite State, the leader in product and supply chain security, and RKVST announce a partnership to bring together Finite State's industry-leading product security automation with RKVST's zero trust-based …",
+      "url": "https://www.businesswire.com/news/home/20221031005538/en/Finite-State-and-RKVST-Announce-Partnership-to-Accelerate-Software-Transparency",
+      "urlToImage": "https://mms.businesswire.com/media/20221031005538/en/1618967/23/FS-Logo-Final-12.jpg",
+      "publishedAt": "2022-10-31T16:06:46Z",
+      "content": "COLUMBUS, Ohio &amp; SANTA CLARA, Calif.--(BUSINESS WIRE)--Finite State, the leader in product and supply chain security, and RKVST announce a partnership to bring together Finite State's industry-le… [+4255 chars]"
+    },
+    {
+      "source": { "id": null, "name": "GlobeNewswire" },
+      "author": "Asimily",
+      "title": "Asimily Wins Multiple Cybersecurity Awards as Healthcare Delivery Organization CISOs Turn to Asimily Insight to Continuously Protect Mission-Critical Devices",
+      "description": "The medical IoT device risk management platform provider adds five prestigious awards to its trophy case, putting Asimily’s major honors into double digits on the year The medical IoT device risk management platform provider adds five prestigious awards to it…",
+      "url": "https://www.globenewswire.com/news-release/2022/11/03/2547987/0/en/Asimily-Wins-Multiple-Cybersecurity-Awards-as-Healthcare-Delivery-Organization-CISOs-Turn-to-Asimily-Insight-to-Continuously-Protect-Mission-Critical-Devices.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/6a32b67a-611e-405d-bb47-2cb3a10e4f99?size=1",
+      "publishedAt": "2022-11-03T14:50:00Z",
+      "content": "SUNNYVALE, Calif., Nov. 03, 2022 (GLOBE NEWSWIRE) -- Asimily\r\n, a leading risk management platform for IoT devices and web-connected equipment, today announced that the company has recently earned fi… [+3887 chars]"
+    },
+    {
+      "source": { "id": null, "name": "IoT Business News" },
+      "author": "IoT.Business.News",
+      "title": "How Radio Frequency Security Can Ensure IoT Safety - IoT Business News",
+      "description": "By Dr. Danny Rittman, CTO of GBT Technologies. Internet of Things (IoT) technology offers a growing number of businesses a wide range of benefits, including better communication, speedy operation, and automation for improved efficiency and",
+      "url": "https://iotbusinessnews.com/2022/10/26/79021-how-radio-frequency-security-can-ensure-iot-safety/",
+      "urlToImage": "https://i0.wp.com/iotbusinessnews.com/WordPress/wp-content/uploads/cellular-network-antennas.jpg?fit=800%2C360&ssl=1",
+      "publishedAt": "2022-10-26T14:01:05Z",
+      "content": "Internet of Things (IoT) technology offers a growing number of businesses a wide range of benefits, including better communication, speedy operation, and automation for improved efficiency and produc… [+5748 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Geektime.com" },
+      "author": "Guest Contributor",
+      "title": "Left to Our Own Devices: How Dr. Suzanne Schwartz is saving lives by reshaping medical device cybersecurity",
+      "description": "Cybersecurity is one of the biggest challenges facing the medical device industry. How is the FDA dealing with it?",
+      "url": "https://www.geektime.com/david-leichner-shlomi-ashkenazy-interview-suzanne-schwartz-cybellum-podcast/",
+      "urlToImage": "https://www.geektime.com/content/images/2022/10/Screen-Shot-2022-10-09-at-11.18.42.png",
+      "publishedAt": "2022-10-12T07:00:00Z",
+      "content": "With an early eye on pediatrics and a specialty in burn-victim surgery, the Food &amp; Drug Administrations (FDA) Dr. Suzanne Schwartz, Director of Strategic Partnerships &amp; Technology Innovation … [+7120 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Geektime.com" },
+      "author": "Guest Contributor",
+      "title": "Left to Our Own Devices: Chris Gates on building the MDM cybersecurity strategies of tomorrow",
+      "description": "There are very few professionals that influenced Medical Device cybersecurity more than Chris Gates. Let’s hear what he has to say about it.",
+      "url": "https://www.geektime.com/david-leichner-shlomi-ashkenazy-interview-chris-gates-cybellum-podcast/",
+      "urlToImage": "https://www.geektime.com/content/images/2022/10/WhatsApp-Image-2022-09-20-at-12.05.25-PM.jpeg",
+      "publishedAt": "2022-10-19T15:30:00Z",
+      "content": "Currently Director of Product Security at Velentium, a professional engineering firm specializing in the design and manufacturing of therapeutic and diagnostic active medical devices, Chris brings se… [+6389 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Concept-phones.com" },
+      "author": "Kelvin, admin",
+      "title": "The Rise of CyberCrime Today - Concept Phones",
+      "description": "Professionals in cyber security continuously defend computer systems from potential breaches. Every day, organizations and private networks are subjected to cyberattacks.",
+      "url": "https://www.concept-phones.com/news/the-rise-of-cybercrime-today/",
+      "urlToImage": "https://lh4.googleusercontent.com/-574b2fyEFJJ0hepWMk-tkmdB5ZmCbLDyWCvDdFjVOw1pNwakOAgftSWMvHoo8zgnbkbg1ljUsZvOCMGIw7WsRmFBmgtogseLlBCJzjPNYiURuBtf_Fi_otaSq8WtjqjC3P9y3iqQn3yGkOS9hXPbX3Ym3tXIKoMAvcxJ9Uod9b5HikRGLfcVlyneFO-pz-IUBZkjA",
+      "publishedAt": "2022-10-30T14:35:30Z",
+      "content": "Professionals in cyber security continuously defend computer systems from potential breaches. Every day, organizations and private networks are subjected to cyberattacks, and the diversity of these a… [+4130 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Business Wire" },
+      "author": null,
+      "title": "Tech PR Firm, Olmstead Williams Communications, Builds Reputation Crisis Response Team with Advanced Digital Reputation Management from Digijaks",
+      "description": "LOS ANGELES--(BUSINESS WIRE)-- #Cyber--Olmstead Williams Communications (OWC), a leading Los Angeles tech public relations firm, today announced a strategic partnership with Digijaks Group to deliver a comprehensive suite of crisis communication tools to prot…",
+      "url": "https://www.businesswire.com/news/home/20221018005463/en/Tech-PR-Firm-Olmstead-Williams-Communications-Builds-Reputation-Crisis-Response-Team-with-Advanced-Digital-Reputation-Management-from-Digijaks",
+      "urlToImage": "https://mms.businesswire.com/media/20221018005463/en/1605043/23/OWC_horizontal_logo.jpg",
+      "publishedAt": "2022-10-18T13:09:02Z",
+      "content": "LOS ANGELES--(BUSINESS WIRE)--Olmstead Williams Communications (OWC), a leading Los Angeles tech public relations firm, today announced a strategic partnership with Digijaks Group to deliver a compre… [+3189 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Bradenkelley.com" },
+      "author": "Arlen Meyers",
+      "title": "Why We Need Digital Health Package Inserts",
+      "description": "GUEST POST from Arlen Meyers, M.D. The Food and Drug Administration announced new rules for nutrition labels that can go on the front of food packages to indicate that they are “healthy.” According to one source, a package insert is a document included in the…",
+      "url": "https://bradenkelley.com/2022/10/why-we-need-digital-health-package-inserts/",
+      "urlToImage": null,
+      "publishedAt": "2022-10-23T12:00:05Z",
+      "content": "GUEST POST from Arlen Meyers, M.D.\r\nThe Food and Drug Administration announced new rules for nutrition labels that can go on the front of food packages to indicate that they are “healthy.”\r\nAccording… [+5722 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Ifixit.com" },
+      "author": "Jack Monahan",
+      "title": "Corporate Lobbying Continues to Stifle Repair",
+      "description": "Repair shows itself as a microcosm of the problem with money in politics—popular policies held at bay by powerful corporations. Each week, we will bring you the top repair news…",
+      "url": "https://www.ifixit.com/News/67908/corporate-lobbying-continues-to-stifle-repair",
+      "urlToImage": "https://valkyrie.cdn.ifixit.com/media/2022/11/07133753/lobbying_3x2.jpg",
+      "publishedAt": "2022-11-07T22:10:08Z",
+      "content": "Repair shows itself as a microcosm of the problem with money in politicspopular policies held at bay by powerful corporations.\r\nEach week, we will bring you the top repair news from around the world,… [+8982 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Dig-in.com" },
+      "author": "Georg Hansbauer",
+      "title": "How tech can help insurers build resilience, stay relevant - Digital Insurance",
+      "description": "The cloud and SaaS can ensure that businesses are able to operate in real-time.",
+      "url": "https://www.dig-in.com/opinion/how-tech-can-help-insurers-build-resilience-stay-relevant",
+      "urlToImage": "https://arizent.brightspotcdn.com/dims4/default/f38e1d3/2147483647/strip/true/crop/2738x1437+0+101/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fcc%2F6d%2F4a30ab42481b9d7d0e26de99d589%2F371939854.jpg",
+      "publishedAt": "2022-11-08T18:00:00Z",
+      "content": "Like many industries, insurers have been impacted by an increased reliance on technology. Expectations on service, personalization, and accessibility are extremely high. In many cases, you only have … [+7265 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Ifixit.com" },
+      "author": "Paul Roberts",
+      "title": "All Eyes on NY Gov. Hochul as Right to Repair Bill Awaits Signature",
+      "description": "The Big News When the New York legislature overwhelmingly passed the Digital Fair Repair Act in June, it was a milestone: the only electronics repair bill to clear a state…",
+      "url": "https://www.ifixit.com/News/68257/all-eyes-on-ny-gov-hochul-as-right-to-repair-bill-awaits-signature",
+      "urlToImage": "https://valkyrie.cdn.ifixit.com/media/2022/11/07141538/fahy_rossmann.jpg",
+      "publishedAt": "2022-11-07T22:27:55Z",
+      "content": "The Big News\r\nWhen the New York legislature overwhelmingly passed the Digital Fair Repair Act in June, it was a milestone: the only electronics repair bill to clear a state legislature after years of… [+4959 chars]"
+    },
+    {
+      "source": { "id": null, "name": "PRNewswire" },
+      "author": null,
+      "title": "Railway Cybersecurity Market Worth $13.7 Billion, Globally, by 2028 at 10.7% CAGR | The Insight Partners",
+      "description": "NEW YORK, Oct. 28, 2022 /PRNewswire/ -- The Insight Partners published latest research study on \"Railway Cybersecurity Market Size, Share, Revenue, Growth Strategy, Industry Trends and Forecast to 2028 – COVID-19 Impact and Global Analysis – by Offering, Secu…",
+      "url": "https://www.prnewswire.com/news-releases/railway-cybersecurity-market-worth-13-7-billion-globally-by-2028-at-10-7-cagr--the-insight-partners-301661667.html",
+      "urlToImage": "https://mma.prnewswire.com/media/1586348/The_Insight_Partners_Logo.jpg?p=facebook",
+      "publishedAt": "2022-10-28T08:30:00Z",
+      "content": "NEW YORK, Oct. 28, 2022 /PRNewswire/ -- The Insight Partners published latest research study on \"Railway Cybersecurity Market\r\nSize, Share, Revenue, Growth Strategy, Industry Trends and Forecast to 2… [+19211 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Vmblog.com" },
+      "author": "David Marshall",
+      "title": "Portnox Debuts First Cloud-Native IoT Fingerprinting and Profiling Solution",
+      "description": "Portnox announced the general availability of the first cloud-native IoT security solution to help mid-market and enterprise businesses address rising Internet of Things (IoT) security threats.",
+      "url": "https://vmblog.com:443/archive/2022/10/12/portnox-debuts-first-cloud-native-iot-fingerprinting-and-profiling-solution.aspx",
+      "urlToImage": null,
+      "publishedAt": "2022-10-12T15:43:00Z",
+      "content": "Portnox announced the general availability of the first cloud-native IoT security solution to\r\nhelp mid-market and enterprise businesses address rising Internet of Things\r\n(IoT) security threats. Now… [+4698 chars]"
+    },
+    {
+      "source": { "id": null, "name": "PRNewswire" },
+      "author": null,
+      "title": "Softhread Announces Collaboration with Clinical Consultants International (CCI), a Wholly-Owned Subsidiary of Novo Integrated Sciences Inc.",
+      "description": "Powering Zero Trust Cybersecurity for Healthcare 4.0 BALTIMORE, Oct. 24, 2022 /PRNewswire/ -- Softhread Inc. is pleased to announce an agreement with Clinical Consultants International (CCI), a wholly-owned subsidiary of Novo Integrated Sciences Inc., to offe…",
+      "url": "https://www.prnewswire.com/news-releases/softhread-announces-collaboration-with-clinical-consultants-international-cci-a-wholly-owned-subsidiary-of-novo-integrated-sciences-inc-301655987.html",
+      "urlToImage": "https://mma.prnewswire.com/media/1926140/Softhread_Logo.jpg?p=facebook",
+      "publishedAt": "2022-10-24T12:35:00Z",
+      "content": "Powering Zero Trust Cybersecurity for Healthcare 4.0\r\nBALTIMORE, Oct. 24, 2022 /PRNewswire/ -- Softhread Inc. is pleased to announce an agreement with Clinical Consultants International (CCI), a whol… [+3473 chars]"
+    },
+    {
+      "source": { "id": null, "name": "GlobeNewswire" },
+      "author": "Market Research Future",
+      "title": "Wearable Medical Device Market Size Worth USD 174.48 Billion by 2030 at 27.1% CAGR – Report by Market Research Future (MRFR)",
+      "description": "Wearable Medical Device Market Size, Trends Analysis By Type (Activity Monitors, Smart Watches, Smart Clothing, Patches), Device Type (Diagnostic & Monitoring Devices, Therapeutic Devices), Application (Sports Academies and Fitness, Remote Patient Monitoring,…",
+      "url": "https://www.globenewswire.com/news-release/2022/10/26/2541550/0/en/Wearable-Medical-Device-Market-Size-Worth-USD-174-48-Billion-by-2030-at-27-1-CAGR-Report-by-Market-Research-Future-MRFR.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/3e9f3ceb-4861-46da-9c98-64c87256444d?size=1",
+      "publishedAt": "2022-10-26T09:30:00Z",
+      "content": "New York, USA, Oct. 26, 2022 (GLOBE NEWSWIRE) -- Wearable Medical Device Market Overview\r\nAccording to a Comprehensive Research Report by Market Research Future (MRFR), Wearable Medical Device Market… [+9919 chars]"
+    },
+    {
+      "source": { "id": null, "name": "ZDNet" },
+      "author": "Danny Palmer",
+      "title": "Cybersecurity: These are the new things to worry about in 2023 - ZDNet",
+      "description": "Today's security problems are still to be fixed. But evolving technologies and a fast-changing world mean there are new challenges, too.",
+      "url": "https://www.zdnet.com/article/cybersecurity-these-are-the-new-things-to-worry-about-in-2023/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/11b98b3fa68659d67af7a914df29db765a790495/2022/03/04/7fc203e5-20b9-4ed3-9971-3da9e7b2ed1a/people-pointing-at-a-computer-in-an-office.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2022-11-09T16:02:11Z",
+      "content": "Getty Images\r\nA year is a long time in cybersecurity.  \r\nCertainly, there are some constants. Ransomware has been a major cybersecurity issue for years, but shows no signs of going away as cyber crim… [+9623 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Thewiredmedia.com" },
+      "author": "CDN Newswire",
+      "title": "Internet of Medical Things (IoMT) Market is expected to undergo a CAGR of 23.9% during the forecast period 2022 to 2029 - Digital Journal",
+      "description": "A Qualitative Research Study accomplished by Data Bridge Market research’s database of 350 pages, titled as “Internet of Medical Things (IoMT)",
+      "url": "https://thewiredmedia.com/980062/internet-of-medical-things-iomt-market-is-expected-to-undergo-a-cagr-of-23-9-during-the-forecast-period-2022-to-2029/",
+      "urlToImage": "https://www.databridgemarketresearch.com/media/2022/9/InternetofMedicalThingsIoMTMarket.jpg",
+      "publishedAt": "2022-10-13T14:26:33Z",
+      "content": "A Qualitative Research Study accomplished by Data Bridge Market research’s database of 350 pages, titled as “Internet of Medical Things (IoMT) Market” with 100+ market data Tables, Pie Charts, Graphs… [+17915 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": "FMW Media Works Corp",
+      "title": "New to The Street / Newsmax TV Announces Episode #403, Eight Interviews, Airing November 6, 2022, 10-11 AM ET",
+      "description": "New to The Street / Newsmax TV Announces Episode #403, Eight Interviews, Airing November 6, 2022, 10-11 AM ET 403rd TV episode features the following: 1...",
+      "url": "https://finance.yahoo.com/news/street-newsmax-tv-announces-episode-133000720.html",
+      "urlToImage": "https://media.zenfs.com/en/globenewswire.com/335b9ecc30d0c632f355314c3fb8e922",
+      "publishedAt": "2022-11-04T13:30:00Z",
+      "content": "New to The Street / Newsmax TV Announces Episode #403, Eight Interviews, Airing November 6, 2022, 10-11 AM ET\r\n403rd TV episode features the following: 1). Mikra Cellular Sciences (a division of Life… [+27877 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Business Wire" },
+      "author": null,
+      "title": "Portnox Debuts First Cloud-Native IoT Fingerprinting and Profiling Solution - Business Wire",
+      "description": "Portnox, a proven leader in cloud-native, zero trust access and endpoint security solutions, today announced the general availability of the first clo",
+      "url": "https://www.businesswire.com/news/home/20221012005038/en/Portnox-Debuts-First-Cloud-Native-IoT-Fingerprinting-and-Profiling-Solution",
+      "urlToImage": "https://mms.businesswire.com/media/20221012005038/en/1596904/23/iot-fingerprinting-diagram_%281%29.jpg",
+      "publishedAt": "2022-10-12T13:00:00Z",
+      "content": "AUSTIN, Texas--(BUSINESS WIRE)--Portnox, a proven leader in cloud-native, zero trust access and endpoint security solutions, today announced the general availability of the first cloud-native IoT sec… [+5757 chars]"
+    },
+    {
+      "source": { "id": null, "name": "PR Newswire UK" },
+      "author": null,
+      "title": "Medical Device Coating Market Worth $12+ Billion, Globally, by 2028 at 7+% CAGR | The Insight Partners",
+      "description": "NEW YORK, Oct. 27, 2022 /PRNewswire/ -- The Insight Partners published latest research study on \"Medical Device Coating Market Size, Share, Revenue, Growth Strategy, Industry Trends and Forecast to 2028 – COVID-19 Impact and Global Analysis – by Material Type…",
+      "url": "https://www.prnewswire.co.uk/news-releases/medical-device-coating-market-worth-12-billion-globally-by-2028-at-7-cagr--the-insight-partners-301661315.html",
+      "urlToImage": "https://mma.prnewswire.com/media/1586348/The_Insight_Partners_Logo.jpg?p=facebook",
+      "publishedAt": "2022-10-27T13:14:00Z",
+      "content": "NEW YORK, Oct. 27, 2022 /PRNewswire/ -- The Insight Partners published latest research study on \"Medical Device Coating Market\r\n Size, Share, Revenue, Growth Strategy, Industry Trends and Forecast to… [+18354 chars]"
+    },
+    {
+      "source": { "id": "newsweek", "name": "Newsweek" },
+      "author": "Laura Donaldson",
+      "title": "When the 'Love Is Blind' Season 3 Finale Episode Is Out on Netflix",
+      "description": "\"Love Is Blind' is back on Netflix with a brand-new cast of singletons prepared to meet the love of their life, sight unseen.",
+      "url": "https://www.newsweek.com/love-blind-season-3-when-finale-wedding-episodes-cast-release-date-netflix-1753014",
+      "urlToImage": "https://d.newsweek.com/en/full/2136296/love-blind-season-3-cast.png",
+      "publishedAt": "2022-10-19T09:25:20Z",
+      "content": "Love Is Blind is back on Netflix for Season 3, with hosts Nick and Vanessa Lachey returning to help a new group of singletons find their perfect partner.\r\nThere's just one catch, however, and that is… [+4359 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": "FMW Media Works Corp",
+      "title": "New to The Street Celebrates its 400th Episode with Exciting Corporate Interviews, Airing on The Newsmax Station Sunday, October 30, 2022, 10-11 AM ET",
+      "description": "New to The Street Celebrates its 400th Episode with Exciting Corporate Interviews, Airing on The Newsmax Station Sunday, October 30, 2022, 10-11 AM ET. Show ...",
+      "url": "https://finance.yahoo.com/news/street-celebrates-400th-episode-exciting-133000118.html",
+      "urlToImage": "https://media.zenfs.com/en/globenewswire.com/abff3d07d18e2e3363af7deeb4d3a787",
+      "publishedAt": "2022-10-28T13:30:00Z",
+      "content": "New to The Street Celebrates its 400th Episode with Exciting Corporate Interviews, Airing on The Newsmax Station Sunday, October 30, 2022, 10-11 AM ET.\r\nShow #400 features:1). The Sustainable Green T… [+30145 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": "Lantronix, Inc.",
+      "title": "Lantronix Launches New Global Navigation Satellite System Receiver Modules, Extending Embedded IoT Solutions Offerings",
+      "description": "New embedded GNSS series enables the addition of positioning and tracking, navigation, geofencing and timing capabilities to virtually any productIRVINE...",
+      "url": "https://finance.yahoo.com/news/lantronix-launches-global-navigation-satellite-110000698.html",
+      "urlToImage": "https://media.zenfs.com/en/globenewswire.com/a19746f97a9bb66d6c03bc24dd843a1f",
+      "publishedAt": "2022-10-27T11:00:00Z",
+      "content": "New embedded GNSS series enables the addition of positioning and tracking, navigation, geofencing and timing capabilities to virtually any product\r\nIRVINE, Calif., Oct. 27, 2022 (GLOBE NEWSWIRE) -- L… [+7713 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": "FMW Media Works Corp",
+      "title": "New to The Street Announces its Five Business Guest Interviews on Episode #395, Airing on Bloomberg TV as a Sponsored Program, Tonight, October 13, 2022 at 9:30 PM PT",
+      "description": "New to The Street Announces its Five Business Guest Interviews on Episode #395, Airing on Bloomberg TV as a Sponsored Program, Tonight, October 13, 2022 at 9...",
+      "url": "https://finance.yahoo.com/news/street-announces-five-business-guest-231800995.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/Qd2OHADBsa8L0kgc7zEtaw--~B/aD0xNjM7dz0zMTg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/globenewswire.com/1333eedf2a3c50f66bb96ec28ca47b33",
+      "publishedAt": "2022-10-13T23:18:00Z",
+      "content": "New to The Street Announces its Five Business Guest Interviews on Episode #395, Airing on Bloomberg TV as a Sponsored Program, Tonight, October 13, 2022 at 9:30 PM PT\r\nNew to The Streets TV show will… [+20954 chars]"
+    },
+    {
+      "source": { "id": null, "name": "GlobeNewswire" },
+      "author": "Global Market Insights, Inc",
+      "title": "Healthcare Cybersecurity Market to hit USD 59 billion by 2030, says Global Market Insights Inc.",
+      "description": "Healthcare Cybersecurity industry is anticipated to register 18% CAGR between 2022 and 2030 owing to increasing incidences of data leaks in developing countries. Healthcare Cybersecurity industry is anticipated to register 18% CAGR between 2022 and 2030 owing…",
+      "url": "https://www.globenewswire.com/news-release/2022/10/26/2541525/0/en/Healthcare-Cybersecurity-Market-to-hit-USD-59-billion-by-2030-says-Global-Market-Insights-Inc.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/6a29379b-a16f-4ee6-9798-26bdadb816f3?size=1",
+      "publishedAt": "2022-10-26T08:10:00Z",
+      "content": "Selbyville, Delaware, Oct. 26, 2022 (GLOBE NEWSWIRE) -- \r\nThe healthcare cybersecurity market value\r\n is estimated to cross USD 59 billion by 2030, according to a new research report by Global Market… [+5261 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CDOTrends" },
+      "author": "Winston Thomas",
+      "title": "IoT Security Is Giving Healthcare Heart Attacks - CDOTrends",
+      "description": "<p>Lives are at stake with insecure devices and systems in healthcare that their vendors promise are unhackable but aren’t guaranteeing. </p>",
+      "url": "https://www.cdotrends.com/story/17594/iot-security-giving-healthcare-heart-attacks",
+      "urlToImage": "https://www.cdotrends.com/sites/default/files/iStock-1045982400_0.jpg",
+      "publishedAt": "2022-11-01T14:21:39Z",
+      "content": "No other industry is drowning in data more than healthcare. It is estimated that this single industry produces around 30% of all data, and this is in a world where the total amount of data doubles ev… [+4805 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": "PR Newswire",
+      "title": "Mphasis wins a total contract value (TCV) of USD 302 million in Direct business",
+      "description": "Mphasis Limited (BSE - 526299; NSE - MPHASIS), an Information Technology (IT) solutions provider specializing in cloud and cognitive services, today...",
+      "url": "https://finance.yahoo.com/news/mphasis-wins-total-contract-value-111400623.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/Ih18T993ibuhGPyZqW4OkA--~B/aD0yODM7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/prnewswire.com/8912c11a780a153c49a958e206ff1179",
+      "publishedAt": "2022-10-21T11:14:00Z",
+      "content": "Gross revenue grew 23.9% YoY in Q2 2023\r\nBENGALURU, India, Oct. 21, 2022 /PRNewswire/ -- Mphasis Limited (BSE - 526299; NSE - MPHASIS), an Information Technology (IT) solutions provider specializing … [+6751 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Cisco.com" },
+      "author": "Niomi Langston",
+      "title": "Keep Healthcare Workers Safe to Help Protect Patients",
+      "description": "Combat rising threats with physical security and cybersecurity innovations\nRead the full post.",
+      "url": "https://meraki.cisco.com/blog/2022/10/keep-healthcare-workers-safe-to-help-protect-patients/",
+      "urlToImage": "https://meraki.cisco.com/blog/wp-content/uploads/Hero-FY23H1Q1Healthcare-Blog-Green.jpg",
+      "publishedAt": "2022-10-27T15:00:00Z",
+      "content": "Combat rising threats with physical security and cybersecurity innovations\r\nBy bringing physical security and cybersecurity together, your hospital or pharmacy can strengthen its ability to deter cri… [+4744 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Business Wire" },
+      "author": null,
+      "title": "Data I/O to Present at Upcoming Investor Conferences",
+      "description": "REDMOND, Wash.--(BUSINESS WIRE)--Data I/O Corporation (NASDAQ: DAIO), the leading global provider of advanced security and data deployment solutions for microcontrollers, security ICs and memory devices, today announced that it will be participating in two up…",
+      "url": "https://www.businesswire.com/news/home/20221109005089/en/Data-IO-to-Present-at-Upcoming-Investor-Conferences",
+      "urlToImage": "https://mms.businesswire.com/media/20221109005089/en/1629371/23/DataIO_50th_Final-01_%281%29_-_logo.jpg",
+      "publishedAt": "2022-11-09T14:05:10Z",
+      "content": "REDMOND, Wash.--(BUSINESS WIRE)--Data I/O Corporation (NASDAQ: DAIO), the leading global provider of advanced security and data deployment solutions for microcontrollers, security ICs and memory devi… [+4389 chars]"
+    },
+    {
+      "source": { "id": null, "name": "PR Web" },
+      "author": null,
+      "title": "28 Awardees Announced for the 5th Annual 2022 IoT Innovator Awards by CompassIntel.com - PR Web",
+      "description": "SAN ANTONIO (PRWEB) October 12, 2022 \n\n Congratulations to the 5th Annual IoT Innovator award recipients! 2022 has remained a growth year for innovation in IoT and we have witnessed a deeper dive in",
+      "url": "https://www.prweb.com/releases/2022/10/prweb18943741.htm",
+      "urlToImage": null,
+      "publishedAt": "2022-10-12T12:05:47Z",
+      "content": "SAN ANTONIO (PRWEB)October 12, 2022\r\n Congratulations to the 5th Annual IoT Innovator award recipients! 2022 has remained a growth year for innovation in IoT and we have witnessed a deeper dive into … [+4156 chars]"
+    },
+    {
+      "source": { "id": "ars-technica", "name": "Ars Technica" },
+      "author": "Kevin Purdy",
+      "title": "Everything we know about the White House’s IoT security labeling effort - Ars Technica",
+      "description": "Everything we know about the White House’s IoT security labeling effort  Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2022/10/everything-we-know-about-the-white-houses-iot-security-labeling-effort/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/GettyImages-1023004172-760x380.jpg",
+      "publishedAt": "2022-10-20T22:59:04Z",
+      "content": "Enlarge/ Home security cameras are some of the first devices to be considered for a security nutrition label that could launch in spring 2023.\r\n1 with 1 posters participating\r\nThe White House issued … [+4657 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Business Wire" },
+      "author": "Business Wire",
+      "title": "Finite State and RKVST Announce Partnership to Accelerate Software Transparency - The Bakersfield Californian",
+      "description": "Finite State and RKVST Announce Partnership to Accelerate Software Transparency  The Bakersfield Californian",
+      "url": "https://www.businesswire.com/news/home/20221031005538/en/",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
+      "publishedAt": "2022-10-31T15:59:38Z",
+      "content": "COLUMBUS, Ohio &amp; SANTA CLARA, Calif.--(BUSINESS WIRE)--Oct 31, 2022--\r\nFinite State, the leader in product and supply chain security, and RKVST announce a partnership to bring together Finite Sta… [+4790 chars]"
+    },
+    {
+      "source": { "id": null, "name": "GlobeNewswire" },
+      "author": "Aluf Holdings Inc.",
+      "title": "Aluf Holdings Inc Gives Update on Development of Digital Healthcare Device",
+      "description": "FT. LAUDERDALE, Fla., Nov. 01, 2022 (GLOBE NEWSWIRE) -- Aluf Holdings, Inc. (\"AHIX\") (\"Aluf\") (OTC PINK: AHIX), a holding company headquartered in Fort Lauderdale, FL, engaged in acquiring, operating, and managing subsidiaries in the development and sale of p…",
+      "url": "https://www.globenewswire.com/news-release/2022/11/01/2545467/0/en/Aluf-Holdings-Inc-Gives-Update-on-Development-of-Digital-Healthcare-Device.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/cf4e4ba9-888e-4efb-be78-19267666522f?size=1",
+      "publishedAt": "2022-11-01T12:02:00Z",
+      "content": "FT. LAUDERDALE, Fla., Nov. 01, 2022 (GLOBE NEWSWIRE) -- Aluf Holdings, Inc. (\"AHIX\") (\"Aluf\") (OTC PINK: AHIX), a holding company headquartered in Fort Lauderdale, FL, engaged in acquiring, operating… [+3004 chars]"
+    },
+    {
+      "source": { "id": null, "name": "IoT Business News" },
+      "author": "IoT.Business.News",
+      "title": "Portnox Debuts First Cloud-Native IoT Fingerprinting and Profiling Solution - IoT Business News",
+      "description": "Zero Trust Security Leader Brings Lightweight, Easy-to-Use IoT Security Capabilities to the Enterprise and Mid-Market. Portnox, a proven leader in cloud-native, zero trust access and endpoint security solutions, today announced the general availability of the",
+      "url": "https://iotbusinessnews.com/2022/10/12/84977-portnox-debuts-first-cloud-native-iot-fingerprinting-and-profiling-solution/",
+      "urlToImage": "https://i0.wp.com/iotbusinessnews.com/WordPress/wp-content/uploads/data-security.jpg?fit=800%2C360&ssl=1",
+      "publishedAt": "2022-10-12T13:00:37Z",
+      "content": "Zero Trust Security Leader Brings Lightweight, Easy-to-Use IoT Security Capabilities to the Enterprise and Mid-Market.\r\nNow available via the Portnox Cloud, Portnoxs new IoT fingerprinting and profil… [+4526 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Cisa.gov" },
+      "author": "US-CERT",
+      "title": "#StopRansomware: Daixin Team",
+      "description": "Actions to take today to mitigate cyber threats from ransomware: • Install updates for operating systems, software, and firmware as soon as they are released. • Require phishing-resistant MFA for as many services as possible. • Train users to recognize and re…",
+      "url": "https://us-cert.cisa.gov/ncas/alerts/aa22-294a",
+      "urlToImage": null,
+      "publishedAt": "2022-10-21T14:29:15Z",
+      "content": "Summary\r\nActions to take today to mitigate cyber threats from ransomware:\r\nInstall updates for operating systems, software, and firmware as soon as they are released.Require phishing-resistant MFA fo… [+18944 chars]"
+    },
+    {
+      "source": { "id": null, "name": "GlobeNewswire" },
+      "author": "Meticulous Market Research Pvt. Ltd.",
+      "title": "Smart Factory Market Worth $262.2 Billion by 2029 - Exclusive Report by Meticulous Research - GlobeNewswire",
+      "description": "Smart Factory Market by Component, Technology, and End-use Industry (Automotive, Heavy Machinery & Tools, Aerospace & Defense, Metals & Mining,...",
+      "url": "https://www.globenewswire.com/news-release/2022/10/18/2536620/0/en/Smart-Factory-Market-Worth-262-2-Billion-by-2029-Exclusive-Report-by-Meticulous-Research.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/242241aa-94d0-4716-a896-1b32a15e722e?size=1",
+      "publishedAt": "2022-10-18T14:00:00Z",
+      "content": "Redding, California, Oct. 18, 2022 (GLOBE NEWSWIRE) -- According to a new market research report titled, Smart Factory Market\r\n by Component, Technology, and End-use Industry (Automotive, Heavy Machi… [+14806 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": "PR Newswire",
+      "title": "Truck Bedliner Market Worth $640+ Mn, Globally, by 2028 at 4.2% CAGR, Driven by Rising Truck Sales in the Asia Pacific, Growing Emphasis on Cargo Protection by End Users, Growing Adoption of Electric Vehicles | The Insight Partners",
+      "description": "The Insight Partners published latest research study on \"Truck Bedliner Market Size, Share, Revenue, Growth Strategy, Industry Trends and Forecast to 2028 – ...",
+      "url": "https://finance.yahoo.com/news/truck-bedliner-market-worth-640-113000136.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/nif7mETfYsrolcNTt.seiw--~B/aD0xNDU7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/prnewswire.com/d3d4658a75c1eeeac2914f85284d92c8",
+      "publishedAt": "2022-10-12T11:30:00Z",
+      "content": "NEW YORK, Oct. 12, 2022 /PRNewswire/ -- The Insight Partners published latest research study on \"Truck Bedliner Market\r\n Size, Share, Revenue, Growth Strategy, Industry Trends and Forecast to 2028 CO… [+12797 chars]"
+    },
+    {
+      "source": { "id": null, "name": "ComputerWeekly.com" },
+      "author": "Aaron Tan",
+      "title": "Singapore extends cyber security labelling scheme to medical devices",
+      "description": "The Cyber Security Agency of Singapore is extending its cyber security labelling scheme to medical devices to encourage medical device manufacturers to adopt a security-by-design approach to product development",
+      "url": "https://www.computerweekly.com/news/252526312/Singapore-extends-cyber-security-labelling-scheme-to-medical-devices",
+      "urlToImage": "https://cdn.ttgtmedia.com/rms/onlineimages/health_g1274382033.jpg",
+      "publishedAt": "2022-10-20T04:37:00Z",
+      "content": "The Cyber Security Agency of Singapore (CSA) is extending the Cybersecurity Labelling Scheme (CLS) to medical devices used by hospitals in a bid to shore up the security of internet of things (IoT) d… [+2865 chars]"
+    }
+  ]
+}

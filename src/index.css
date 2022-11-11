@@ -57,6 +57,10 @@ h3 {
   font-size: 2.5rem;
 }
 
+h3 a {
+  color: black;
+}
+
 small {
   font-size: 1.5rem;
 }
@@ -126,6 +130,8 @@ section.cards {
   justify-content: space-between;
   align-items: center;
   max-width: 45%;
+  min-width: 45%;
+  max-height: 500px;
   padding-bottom: 20px;
   border-radius: 10px;
   box-shadow: 0 0 10px var(--medcrypt-gray);
